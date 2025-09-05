@@ -1,6 +1,6 @@
 # 🎶 5-Band Analog Equalizer  
   
-[![CAD]([https://img.shields.io/badge/Enclosure-SolidWorks-lightgrey](https://github.com/NirwanV/Five-Band-Equalizer/blob/main/fivebandequalizer.jpeg))](#)  
+[![CAD](fivebandequalizer.jpeg)](#)  
  
 
 A **5-Band Analog Audio Equalizer** built from scratch as part of an **Analog Design Project**.  
